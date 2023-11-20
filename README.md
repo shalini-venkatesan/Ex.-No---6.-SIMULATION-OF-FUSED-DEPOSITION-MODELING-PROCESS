@@ -17,8 +17,8 @@
 
 ## Output:
 ```
- Name: G.Chethan kumar
- Register Number: 212222240022
+ Name: SHALINI V
+ Register Number: 212222240096
 ```
 ![image](https://github.com/Gchethankumar/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118348224/96e15a69-a50c-4e27-ac4c-5466d56a8e19)
 
